@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-2 -12 468 267" width="39pc" height="267pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-21 10:37:56 +0000</dc:date>
+  </metadata>
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#764eb8">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#764eb8">
+      <g>
+        <path d="M -2.88 0 L 0 1.08 L 0 -1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Roboto Mono" font-size="24" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="538.08594" cap-height="720.7031" ascent="1047.8516" descent="-270.9961" font-weight="500">
+      <font-face-src>
+        <font-face-name name="RobotoMono-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto Mono" font-size="14" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="538.08594" cap-height="720.7031" ascent="1047.8516" descent="-270.9961" font-weight="500">
+      <font-face-src>
+        <font-face-name name="RobotoMono-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect width="467.0466" height="265.6888"/>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 265.16494 20.393872 C 310.36247 19.617282 364.84457 22.689515 394.5 39 C 418.7405 52.33227 421.51645 71.82759 416.75697 89.77248" marker-end="url(#FilledArrow_Marker)" stroke="#764eb8" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path d="M 153.18805 229.26044 C 188.51745 244.50303 233.80976 257.33805 275.5 249 C 332.65333 237.56933 364.9643 189.961 379.99907 160" marker-start="url(#FilledArrow_Marker_2)" stroke="#764eb8" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path d="M 56.51029 170 C 25.73878 144.73154 -12.223107 105.20847 5.546579 75 C 18.158082 53.560445 56.20178 41.30059 94.53592 34.29618" marker-end="url(#FilledArrow_Marker)" stroke="#764eb8" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path d="M 338.04658 110 L 443.0466 110 C 455.4666 110 465.5466 121.2 465.5466 135 C 465.5466 148.8 455.4666 160 443.0466 160 L 338.04658 160 C 325.62658 160 315.54658 148.8 315.54658 135 C 315.54658 121.2 325.62658 110 338.04658 110" fill="#ee8d51"/>
+      <text transform="translate(335.54658 119)" fill="white">
+        <tspan font-family="Roboto Mono" font-size="24" font-weight="500" fill="white" x="11.792969" y="25" textLength="86.41406">action</tspan>
+      </text>
+      <path d="M 38.04658 170 L 143.04658 170 C 155.46658 170 165.54658 181.2 165.54658 195 C 165.54658 208.8 155.46658 220 143.04658 220 L 38.04658 220 C 25.62658 220 15.546579 208.8 15.546579 195 C 15.546579 181.2 25.62658 170 38.04658 170" fill="#ee8d51"/>
+      <text transform="translate(35.54658 179)" fill="white">
+        <tspan font-family="Roboto Mono" font-size="24" font-weight="500" fill="white" x="18.99414" y="25" textLength="72.01172">state</tspan>
+      </text>
+      <path d="M 138.04658 0 L 243.04658 0 C 255.46658 0 265.54658 11.2 265.54658 25 C 265.54658 38.8 255.46658 50 243.04658 50 L 138.04658 50 C 125.62658 50 115.54658 38.8 115.54658 25 C 115.54658 11.2 125.62658 0 138.04658 0" fill="#ee8d51"/>
+      <text transform="translate(135.54658 9)" fill="white">
+        <tspan font-family="Roboto Mono" font-size="24" font-weight="500" fill="white" x="26.195312" y="25" textLength="57.609375">view</tspan>
+      </text>
+      <text transform="translate(318.2961 36.389844)" fill="white">
+        <tspan font-family="Roboto Mono" font-size="14" font-weight="500" fill="white" x=".39453125" y="15" textLength="67.21094">dispatch</tspan>
+      </text>
+      <text transform="translate(244.3254 224.11586)" fill="white">
+        <tspan font-family="Roboto Mono" font-size="14" font-weight="500" fill="white" x=".29589844" y="15" textLength="50.408203">update</tspan>
+      </text>
+      <text transform="translate(9.257058 80.72567)" fill="white">
+        <tspan font-family="Roboto Mono" font-size="14" font-weight="500" fill="white" x=".19384766" y="15" textLength="75.612305">subscribe</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
