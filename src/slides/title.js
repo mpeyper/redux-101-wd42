@@ -1,5 +1,5 @@
 import React from 'react'
-import { Slide, Heading, Image, Link, Table, TableBody, TableRow, TableItem, Notes } from "spectacle"
+import { Slide, Heading, Image, Link, Table, TableBody, TableRow, TableItem } from "spectacle"
 import Twitter from 'react-icons/lib/fa/twitter'
 import Github from 'react-icons/lib/fa/github'
 
@@ -45,12 +45,5 @@ export default (
         </TableRow>
       </TableBody>
     </Table>
-    <Notes>
-      <ul>
-        <li>Created by Dan Abramov and Andrew Clark in 2015.</li>
-        <li>Inspired by Facebook’s Flux</li>
-        <li>Influenced by functional programming language Elm.</li>        
-      </ul>
-    </Notes>
   </Slide>
 )
